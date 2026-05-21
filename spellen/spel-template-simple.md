@@ -6,7 +6,7 @@
 | - | 1 | 2 | 3 |
 |---|---|---|---|
 | A |X|🔲|0|
-| B |🔲|0|🔲|
+| B |X|0|🔲|
 | C |X|0|X|
 
 ### Logboek
@@ -17,3 +17,5 @@ Steven - C3 = X
 Axl - A3 = 0
 Steven - C1 = X
 Axl - C2 = 0
+Steven - B1 = X
+Steven Wins
