@@ -1,6 +1,6 @@
 ### Spelers
 - Speler X = Steven
-- Speler O = __
+- Speler O = Axl
 
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
